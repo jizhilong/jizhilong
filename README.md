@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @jizhilong
-- 🌱 I’m currently learning confugration languages
+- 🌱 I'm into software engineering things
